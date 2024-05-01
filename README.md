@@ -1,4 +1,4 @@
-![Header](./https://lh3.googleusercontent.com/drive-viewer/AKGpihbf5H584lya_Z_0f10KYnyvYPtA8YrdOmbiw8sQ3qNAiyaYapsf9quM6wFwSoFISox_qDO9qrkbJHsnah9OnH6N4wawTwygGw=s1600-rw-v1)
+![Header](https://raw.githubusercontent.com/SidneySG/SidneySG/main/github-header-image_last.png)
 <h1 align="center">Hi 👋, I'm Sidney Manuel</h1>
 <h3 align="center">Building the future, one commit at a time: Exploring the source code of innovation!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
