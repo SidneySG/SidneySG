@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sidney Manuel</h1>
-<h3 align="center">Full Stack Developer | Especialista em Mobile (Flutter/Android) e Backend (Java/Spring, PHP/Laravel) | Expertise em Integração e Mídia Streaming.</h3>
+<h3 align="center">Full Stack Developer | Especialista em Mobile (Flutter/Android) e Backend (Java/Spring, PHP/Laravel, Python) | Expertise em Integração e Mídia Streaming.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding" width="300" />
