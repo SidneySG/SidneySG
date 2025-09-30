@@ -18,8 +18,8 @@
 
 ### 🚀 Expertise & Projetos Especiais:
 
-- **Sistemas de Alto Desempenho (ASCAS & USSD):** Experiência no desenvolvimento e integração de sistemas **ASCAS** e serviços **USSD** (Unstructured Supplementary Service Data) para o setor de telecomunicações.
-- **Integração de Mídia Streaming:** Sólido conhecimento na implementação de soluções de streaming de vídeo e áudio, incluindo integração avançada com APIs e serviços especializados como **Dolby Millicast**.
+- **Sistemas de Alto Desempenho:** Experiência no desenvolvimento e integração de sistemas e serviços (Unstructured Supplementary Service Data) para o setor de telecomunicações.
+- **Integração de Mídia Streaming:** Sólido conhecimento na implementação de soluções de streaming de vídeo e áudio, incluindo integração avançada com APIs e serviços especializados.
 - **Backend Robusto:** Experiência prática na construção de APIs escaláveis utilizando **Java/Spring Boot** e **PHP/Laravel**.
 - **Python Avançado:** Utilização de **Python** para processamento de dados, automação e integração de sistemas complexos.
 
